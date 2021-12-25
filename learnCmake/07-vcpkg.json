@@ -1,0 +1,12 @@
+{
+  "name": "versions-test",
+  "version": "1.0.0",
+  "dependencies": [
+    {
+      "name": "fmt",
+      "version>=": "7.1.3"
+    },
+    "zlib"
+  ],
+  "builtin-baseline": "b60f003ccf5fe8613d029f49f835c8929a66eb61"
+}

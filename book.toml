@@ -1,0 +1,9 @@
+[book]
+authors = ["weiyinfu.weiyinfu"]
+language = "en"
+title="learnVcpkg"
+multilingual = false
+src = "src"
+
+[output.html]
+theme='./theme'
