@@ -1,7 +1,9 @@
 import os
 from os.path import *
 
-
+"""
+根据readme生成一个目录
+"""
 class Node:
     def __init__(self, name, src):
         self.name = name
